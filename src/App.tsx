@@ -12,7 +12,7 @@ function App() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Navigate replace to={`${baseUrl}/`} />}/>
+                <Route path="*" element={<Navigate replace to={`${baseUrl}/`} />}/>
                 <Route path={`${baseUrl}/`} element={<ToPayList/>}/>
                 <Route path={`${baseUrl}/addClient`} element={<AddClient/>}/>
             </Routes>
