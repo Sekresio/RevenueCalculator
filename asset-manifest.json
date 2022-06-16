@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/revenue-calculator/static/css/main.31d6cfe0.css",
+    "main.js": "/revenue-calculator/static/js/main.0d26cf38.js",
+    "index.html": "/revenue-calculator/index.html",
+    "main.0d26cf38.js.map": "/revenue-calculator/static/js/main.0d26cf38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0d26cf38.js"
+  ]
+}
