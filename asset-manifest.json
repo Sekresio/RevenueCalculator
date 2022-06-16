@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/revenue-calculator/static/css/main.31d6cfe0.css",
-    "main.js": "/revenue-calculator/static/js/main.0d26cf38.js",
-    "index.html": "/revenue-calculator/index.html",
-    "main.0d26cf38.js.map": "/revenue-calculator/static/js/main.0d26cf38.js.map"
+    "main.css": "/RevenueCalculator/static/css/main.31d6cfe0.css",
+    "main.js": "/RevenueCalculator/static/js/main.0d26cf38.js",
+    "index.html": "/RevenueCalculator/index.html",
+    "main.0d26cf38.js.map": "/RevenueCalculator/static/js/main.0d26cf38.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
