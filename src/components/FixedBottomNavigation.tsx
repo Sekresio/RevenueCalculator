@@ -13,11 +13,10 @@ const FixedBottomNavigation = () => {
     const [value, setValue] = React.useState('/');
     const ref = React.useRef<HTMLDivElement>(null);
     const navigate = useNavigate();
-    
 
     const handleChange = (event: SyntheticEvent, newValue: string) => {
         setValue(newValue);
-        navigate(`${process.env.PUBLIC_URL}${newValue}`);
+        navigate(newValue);
     }
 
     return (
