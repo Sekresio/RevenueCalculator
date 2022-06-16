@@ -1,7 +1,7 @@
 {
   "name": "revenue-calculator",
   "version": "0.1.0",
-  "homepage": "https://sekresio.github.io/revenue-calculator",
+  "homepage": "https://sekresio.github.io/RevenueCalculator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
