@@ -42,7 +42,7 @@ const FixedBottomNavigation = () => {
                         icon={<FormatListBulletedIcon/>}
                     />
                     <BottomNavigationAction
-                        value="/money"
+                        value="/revenue"
                         label="Money"
                         icon={<AttachMoneyIcon/>}
                     />
