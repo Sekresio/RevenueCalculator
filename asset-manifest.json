@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/RevenueCalculator/static/css/main.31d6cfe0.css",
-    "main.js": "/RevenueCalculator/static/js/main.785d57cf.js",
+    "main.js": "/RevenueCalculator/static/js/main.d5aae350.js",
     "index.html": "/RevenueCalculator/index.html",
-    "main.785d57cf.js.map": "/RevenueCalculator/static/js/main.785d57cf.js.map"
+    "main.d5aae350.js.map": "/RevenueCalculator/static/js/main.d5aae350.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.785d57cf.js"
+    "static/js/main.d5aae350.js"
   ]
 }
